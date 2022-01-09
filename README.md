@@ -1,10 +1,11 @@
 # Olá, eu sou Jonas Félix
 
 ```C#
-programer me = new programer();
-
+programer me = new programer()
+{
 me.Name = "Jonas";
 me.MBTI = "ENFJ";
+}
 ```
 
 <p align="left">
