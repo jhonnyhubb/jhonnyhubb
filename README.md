@@ -17,7 +17,7 @@ me.MBTI = "ENFJ";
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonnyhubb&show_icons=true&locale=en" alt="jhonnyhubb" /></p>
 
- <img align="right" alt="GIF" src="https://github.com/jhonnyhubb/jhonnyhubb/blob/main/pixel.gif" width="60%" />
+ <img align="right" alt="GIF" src="https://github.com/jhonnyhubb/jhonnyhubb/blob/main/The%20Chill%20and%20Retro%20Pixel%20Art%20of%20Motocross%20Saito.gif" width="60%" />
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left"> 
