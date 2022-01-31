@@ -1,11 +1,13 @@
 # Olá, eu sou Jonas Félix
 
-```C#
-programer me = new programer()
-{
-me.Name = "Jonas";
-me.MBTI = "ENFJ";
-}
+
+```javascript 
+class Programmer{
+    constructor(name, personality){
+    this.name = Jonas,
+    this.personality = ENFJ
+    }
+   }
 ```
 
 <p align="left">
